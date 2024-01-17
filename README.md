@@ -1,7 +1,7 @@
-<h1 align="center"> Links de Acesso </h1>
+<h1 align="center"> Meu instagram </h1>
 
 <p align="center">
-Agregador de Links usado como portifolio <br/>
+Copia da pagina do meu perfil do instagram <br/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Agregador de Links usado como portifolio <br/>
 <br>
 
   <p align= 'center'>
-  <img alt="Peojeto Link de Acesso" src="./github/fundo.jpg" width='50%'>
+  <img alt="Peojeto Meu Instagram" src="./gthub/fundo.jpg" width='50%'>
   </p>
 
 
@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Links de Acesso é um agregador de links para usar como cartão de visitas online.
+O meu perfil do instagram é uma copia da minha página do meu instagram, ao clicar no icone "myinstagram" o usuário é redirecionado ao meu perfil real
 
 - [Acesse o projeto finalizado, online](https://CarlosHerbertDev.github.io/myinstagram)
