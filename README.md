@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O meu perfil do instagram é uma copia da minha página do meu instagram, ao clicar no icone "myinstagram" o usuário é redirecionado ao meu perfil real
+O meu perfil do instagram é uma copia da minha página do meu instagram, ao clicar no icone "myinstagram" o usuário é redirecionado ao meu perfil real do instagram
 
 - [Acesse o projeto finalizado, online](https://CarlosHerbertDev.github.io/myinstagram)
